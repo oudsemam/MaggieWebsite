@@ -1,0 +1,9 @@
+img{
+    width: 100%;
+    position: relative;
+}
+
+.home_main {
+    display: flex;
+    justify-content: space-evenly;
+}
